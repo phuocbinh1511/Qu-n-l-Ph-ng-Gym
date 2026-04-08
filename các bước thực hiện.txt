@@ -1,2 +1,3 @@
 Bước 1: Khởi tạo Project Code First và kết nối GitHub.
 Buoc 2: Cai dat thu vien EF Core
+Buoc 3: Hoan thanh Models GoiTap va HoiVien
