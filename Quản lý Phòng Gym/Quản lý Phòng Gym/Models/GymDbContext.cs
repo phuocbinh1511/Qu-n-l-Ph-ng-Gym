@@ -10,8 +10,8 @@ namespace BT_CodeFirst_CafeManager.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Thay TÊN_SERVER_CỦA_BẠN bằng tên máy bạn (ví dụ: .\SQLEXPRESS)
-            optionsBuilder.UseSqlServer("Server=TÊN_SERVER_CỦA_BẠN;Database=GymDB_CodeFirst;Trusted_Connection=True;TrustServerCertificate=True");
+           
+            optionsBuilder.UseSqlServer("Server=LAPTOP-J6SKU6DO\\HAPHUOCBINH;Database=GymDB_CodeFirst;Trusted_Connection=True;TrustServerCertificate=True");
         }
     }
 }
